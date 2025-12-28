@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Deekshithaa Y M. Currently, I am pursuing my UG degree in Data Science. 
+
+💖I love to understand the story behind data. Additionally, I am very fascinated by digital marketing and the fact how data skills can be used to leverage good business outcomes!
+👩🏻‍💻I am very comfortable with coding in Python and it's libraries which are Numpy, Pandas, Matplotlib and Seaborn.
+🌱I am currently learning SQL and machine learning.
+
+✉️You can reach me at 24sbds061@psgrkcw.ac.in - would love to discuss about data, AI or any opportunities available in the field. See you there👋🏻
+
